@@ -1,0 +1,34 @@
+{
+  "currentEnergy": 3600.0,
+  "isTransformed": false,
+  "isEnergyDepleted": false,
+  "energyDepletedTimer": 0,
+  "isFullScale": true,
+  "ultramanType": "ultraman_zero_normal",
+  "unlockedForms": [
+    "ultraman_zero_normal",
+    "ultraman_zero_gear"
+  ],
+  "permanentExtraForms": [],
+  "unlockedAbilities": [
+    "zero_3",
+    "zero_4",
+    "zero_5",
+    "zero_6",
+    "zero_1",
+    "zero_2",
+    "zero_7",
+    "zoffy_5",
+    "zero_8",
+    "zoffy_4",
+    "zero_9",
+    "zoffy_2",
+    "zoffy_1",
+    "zoffy_0",
+    "zero_10"
+  ],
+  "infiniteEnergy": false,
+  "gaiaSvReady": false,
+  "agulSvChargeEnergy": 0,
+  "lastSaveTime": 1777718414217
+}

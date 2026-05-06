@@ -1,0 +1,7 @@
+{
+  "item.ultraman_mod_extra_energy_device.energy_device": "能源装置",
+  "item.ultraman_mod_extra_energy_device.energy_device.title.energy_max": "能量上限：%s",
+  "item.ultraman_mod_extra_energy_device.energy_device.title.energy": "能量：%s",
+  "item.ultraman_mod_extra_energy_device.energy_device.title.use_on.enabled": "已启用",
+  "item.ultraman_mod_extra_energy_device.energy_device.title.use_on.disabled": "已禁用"
+}
