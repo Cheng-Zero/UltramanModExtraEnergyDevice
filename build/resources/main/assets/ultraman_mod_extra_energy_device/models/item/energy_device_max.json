@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ultraman_mod_extra_energy_device:item/energy_device_max"
+  }
+}
