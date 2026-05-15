@@ -1,7 +1,0 @@
-{
-  "item.ultraman_mod_extra_energy_device.energy_device": "Energy Device",
-  "item.ultraman_mod_extra_energy_device.energy_device.title.energy_max": "EnergyMax: %s",
-  "item.ultraman_mod_extra_energy_device.energy_device.title.energy": "Energy: %s",
-  "item.ultraman_mod_extra_energy_device.energy_device.title.use_on.enabled": "Enabled",
-  "item.ultraman_mod_extra_energy_device.energy_device.title.use_on.disabled": "Disabled"
-}
